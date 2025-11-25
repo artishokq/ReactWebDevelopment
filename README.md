@@ -8,4 +8,6 @@
 
 > Семинар 21.10.2025 находится в ветке [sem5-6](https://github.com/artishokq/ReactWebDevelopment/tree/21-10-25-sem)
 
-> Семинар 11.11.2025 находится в ветке [sem7-8](https://github.com/artishokq/ReactWebDevelopment/tree/11-11-25-sem) 
+> Семинар 11.11.2025 находится в ветке [sem7-8](https://github.com/artishokq/ReactWebDevelopment/tree/11-11-25-sem)
+
+> Семинар 25.11.2025 находится в ветке [sem9-10](https://github.com/artishokq/ReactWebDevelopment/tree/25-11-25-sem)
