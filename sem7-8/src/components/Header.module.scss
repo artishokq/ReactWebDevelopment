@@ -1,0 +1,31 @@
+.header {
+  text-align: center;
+  padding: 20px;
+  background: var(--header-bg);
+  border-bottom: 2px solid var(--border-color);
+
+  @media (max-width: 768px) {
+    padding: 15px;
+  }
+}
+
+.title {
+  margin: 0 0 10px 0;
+  font-size: 2.5rem;
+  color: var(--text-color);
+
+  @media (max-width: 768px) {
+    font-size: 1.8rem;
+  }
+}
+
+.author {
+  margin: 0;
+  font-size: 1rem;
+  color: var(--text-secondary);
+  font-style: italic;
+
+  @media (max-width: 768px) {
+    font-size: 0.9rem;
+  }
+}

@@ -1,0 +1,55 @@
+:root {
+  --bg-color: #f5f5f5;
+  --text-color: #333;
+  --text-secondary: #666;
+  --header-bg: #ffffff;
+  --navbar-bg: #ffffff;
+  --widget-bg: #ffffff;
+  --item-bg: #f9f9f9;
+  --border-color: #e0e0e0;
+  --button-bg: #007bff;
+  --button-text: #ffffff;
+}
+
+.dark-theme {
+  --bg-color: #1a1a1a;
+  --text-color: #f5f5f5;
+  --text-secondary: #aaa;
+  --header-bg: #2d2d2d;
+  --navbar-bg: #2d2d2d;
+  --widget-bg: #2d2d2d;
+  --item-bg: #3a3a3a;
+  --border-color: #444;
+  --button-bg: #0056b3;
+  --button-text: #ffffff;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  background: var(--bg-color);
+  color: var(--text-color);
+  transition: all 0.3s;
+}
+
+.app {
+  min-height: 100vh;
+}
+
+.main-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+@media (max-width: 768px) {
+  .main-content {
+    padding: 15px;
+    gap: 20px;
+  }
+}
