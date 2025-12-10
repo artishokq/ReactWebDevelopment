@@ -1,13 +1,6 @@
-## НИС Промышленная веб-разработка на React
+## Задание на семинар: Список пользователей
+Задача — создать простой frontend-клиент на React, который работает с публичным REST API
 
-Тут вы найдете выполненные работы с семинаров.
+(Работает только с vpn, иначе  https://jsonplaceholder.typicode.com/ не отвечает)
 
-Каждый семинар или дз будет в своей ветке.
-
-> Семинар 07.10.2025 находится в ветке [sem3-4](https://github.com/artishokq/ReactWebDevelopment/tree/07-10-25-sem)
-
-> Семинар 21.10.2025 находится в ветке [sem5-6](https://github.com/artishokq/ReactWebDevelopment/tree/21-10-25-sem)
-
-> Семинар 11.11.2025 находится в ветке [sem7-8](https://github.com/artishokq/ReactWebDevelopment/tree/11-11-25-sem)
-
-> Семинар 25.11.2025 находится в ветке [sem9-10](https://github.com/artishokq/ReactWebDevelopment/tree/25-11-25-sem)
+<img width="894" height="843" alt="Снимок экрана 2025-12-10 в 13 39 23" src="https://github.com/user-attachments/assets/06b69a84-6f6c-41f0-ae47-8ca45a36d6b8" />
