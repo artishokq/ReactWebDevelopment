@@ -7,7 +7,7 @@ export interface User {
 }
 
 const BASE_URL =
-  "https://my-json-server.typicode.com/artishokq/ReactWebDevelopment/tree/25-11-25-sem";
+  "https://my-json-server.typicode.com/artishokq/ReactWebDevelopment";
 
 export const usersApi = createApi({
   reducerPath: "usersApi",

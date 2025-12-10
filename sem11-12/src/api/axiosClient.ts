@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const BASE_URL =
-  "https://my-json-server.typicode.com/artishokq/ReactWebDevelopment/tree/25-11-25-sem";
+  "https://my-json-server.typicode.com/artishokq/ReactWebDevelopment";
 
 export const axiosClient = axios.create({
   baseURL: BASE_URL,
