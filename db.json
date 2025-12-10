@@ -1,9 +1,0 @@
-{
-  "users": [
-    { "id": 1, "name": "Alice", "email": "alice@mail.com" },
-    { "id": 2, "name": "Bob", "email": "bob@mail.com" },
-    { "id": 3, "name": "Ann", "email": "ann@mail.com" },
-    { "id": 4, "name": "Artem", "email": "artem@mail.com" },
-    { "id": 5, "name": "Oleg", "email": "oleg@mail.com" }
-  ]
-}
